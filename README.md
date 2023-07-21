@@ -20,10 +20,9 @@
 
 ### You can find more information on my socials:
 
-| ✨[instagram](https://www.instagram.com/gadget_hackwrench/) | ✨[vk](https://vk.com/feed) |
-| ------ | ------ |
+✨[instagram](https://www.instagram.com/gadget_hackwrench/) 
+✨[vk](https://vk.com/feed) 
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
+
+`theme: cayman`
 
