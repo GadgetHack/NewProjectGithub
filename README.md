@@ -24,5 +24,5 @@
 ✨[vk](https://vk.com/feed) 
 
 
-theme: cayman
+`remote_theme: cayman`
 
