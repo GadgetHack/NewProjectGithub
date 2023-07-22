@@ -24,5 +24,4 @@
 ✨[vk](https://vk.com/feed) 
 
 
-theme: cayman
 
